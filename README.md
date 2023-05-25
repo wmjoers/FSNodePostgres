@@ -1,4 +1,4 @@
-# From Scratch - Node.js simple postgres migration
+# From Scratch - Node.js postgres connection
 
 ## CLI tools
 * Node Version Manager (nvm)
